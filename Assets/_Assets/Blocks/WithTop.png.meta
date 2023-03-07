@@ -1,0 +1,2454 @@
+fileFormatVersion: 2
+guid: 954a8fb558699a9459844c61819b0248
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_bricks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bbf0d99a463804b9116267fe8235a7
+      internalID: 1265781025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 732
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f797f96153715045ab095c1ff1930f8
+      internalID: 765835213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 732
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b5940eb1b39af4cb1f6b7dd5d57fa1
+      internalID: -226511740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 732
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f45e869fcd7ba44b3258274c470afe
+      internalID: 295000982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 732
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc47d90f088e64bbeb78df391358fe
+      internalID: 1736594883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 732
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee99755d8286694e84142f7b68eba8c
+      internalID: 1567125026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_6
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 732
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c1bd857f1f8cd40af1d609cb6bec4a
+      internalID: 1156672412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089236ed0c87e4b458801551c704cb39
+      internalID: 2115120125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 666
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a136616e3c584b4ca85d7a54d4444e2
+      internalID: 1749974360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 666
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185efb64eab42b749a5d8290ae5d991e
+      internalID: 258040956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 666
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14969dc338099334f83a412a87c73dfb
+      internalID: -536842787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aedbb9cd2729a643ae098dff63b42ed
+      internalID: -1927681017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214331070b710da4fa7d1d601a8ad9f9
+      internalID: -1560217032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 698
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695e44134ddbb904f923ba221981c30e
+      internalID: 838073512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd093b78483b3459e2020151bc6a84
+      internalID: -209079469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 664
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83091f89072dfee41bd0bda879209718
+      internalID: -1987413006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 600
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b77720db54da74ca86a60186af9fd3
+      internalID: -1621368292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 632
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567ba8289c669f49a37cda4fce56f4c
+      internalID: 670375977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 600
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99c1baca9be0374084909ec451d78a0
+      internalID: 1404950799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b4515a5084c248995258382c64c06
+      internalID: -1687814064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_20
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b773411c01d3a0b4eaa0138439d0a984
+      internalID: -123064454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_21
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 598
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03ba34569e7bda4e9e45dc6e9180d9b
+      internalID: 1689285196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a94dd32d891c5648a046075a2c04293
+      internalID: -1125945996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 534
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f41750b4d27a49bd3918697d7dd88
+      internalID: 1999201981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 566
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67b0208acce52541870bbbe3ab7debd
+      internalID: 503722087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 534
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5230de6e3d6e4449cf38bc105052ba
+      internalID: -1100004205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 534
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80c7695ceeba394b9266d071eb07d34
+      internalID: 1573499464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_27
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 534
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a762722a2f6a498c5f2b1b769222c
+      internalID: -1920235198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_28
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 564
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3565de1a2886c44af630b8b8c2db37
+      internalID: -1683981656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28850208b19342c4380e12e5749b8e1d
+      internalID: 1362257265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 500
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac43ec3e51e8484896b7901e0bc3da1
+      internalID: -991963251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_31
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 498
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b19d3f3b1a790f4987532fffa706576
+      internalID: -494370114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbea39426ecb5d4fb2b5d2e733ce0f4
+      internalID: -586575937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 468
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9f959205c105846b8c9c80ceb3ca06
+      internalID: 883230817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_34
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 500
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ecf77d8ff70a47b12c2277d2898f4
+      internalID: 2054246857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_35
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 468
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93577efe04b875e449d14073559c2244
+      internalID: 1985771684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_36
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 468
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1296ccbe15fec418109aae07b919db
+      internalID: -1339520914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_37
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 468
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a597bf0150d5244a3abab94f1a53e9
+      internalID: -1893607736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02fd40183bf3047a9f0167c7481eef
+      internalID: -1398466663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 402
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c914ca5738a443a2ecd6921d9587f
+      internalID: 778398197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 434
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ea344b3ca6bb344b9f6f1badc9fcc1
+      internalID: -1976597010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 434
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d958955a4c6ec64793f82bfeadf2f63
+      internalID: 408177450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 402
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fe4099cf5cdb74fb12283fc171c376
+      internalID: -604015226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_43
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 402
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0969c3fe13bc9549aa36049be78384c
+      internalID: -1677062001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_44
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 402
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd351e9dcf057345b828f13fe05a23a
+      internalID: -1661394257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_45
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc21a30184c54040a6040dc9fbf0a64
+      internalID: 842582913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca80db6622212143b1b479635f130e5
+      internalID: -1134452898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 336
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b8b1ded6409a42877c6f6e4d59312
+      internalID: -605559573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_48
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 368
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2407bd7a8dd075e4eb04e427de43afe8
+      internalID: 1728826169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_49
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f0ceb57acae38498376ebb4e953c44
+      internalID: -1922671598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 336
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aba33b875787a4d93bda9c56375138
+      internalID: -1783399255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_51
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 336
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88cc4675cf8180469c49d0f35b929b2
+      internalID: -899316969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_52
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 336
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20b30a07c8a8aa438e611e36991df11
+      internalID: 1123593127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_53
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bbf2efd83817a42801e1d71e3f9926
+      internalID: 1017541581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d216faab79c50e54eb5e359077a6cd44
+      internalID: 1792310895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 270
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14518d68560510c418380a3fb710a94d
+      internalID: 1017461390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_56
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 302
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03740803d8e7a1b4bbdd54f06dfe3e87
+      internalID: -1635762260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_57
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 302
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8dbdb4f8e85924387b615b4879f45c
+      internalID: -1643024064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_58
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f1fd3143b57064c972282ea8292c5e
+      internalID: -1188667773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_59
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 302
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f411278afa2c13247a2ec4173ebd2749
+      internalID: 329113788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_60
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd864c4c5ded5f4a8338a0d311c156c
+      internalID: 1481249616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_61
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548267e9c036a1747bd4baf5ad1d297d
+      internalID: -1060971556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_62
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 300
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c652668ba49fa2d4da1f7a46292e280d
+      internalID: 57338085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05bc450d5790434686ee1c56abeaed6
+      internalID: 1281878003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_64
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 236
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb304535d20414c8c08e2ec31dc722
+      internalID: 785408939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_65
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ecc4edfdbcdc949933e21fe96de3ba
+      internalID: 1365545668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_66
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6f6ff64ff92284bab9d70e2b027d88
+      internalID: 1390823069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_67
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ef7fdb1a4c063489bc0e5514aae639
+      internalID: 1271721567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 204
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f27936c9e4e9d4bbb61ff0f22c0832
+      internalID: -2011987809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_69
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9741cc6781533e7419cc6cbda8f8788a
+      internalID: 1344654946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_70
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937cb3661bd2c9b47b2c7f7eb4216f10
+      internalID: -357327844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_71
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63beeed297776b548882166c3c7ef391
+      internalID: -1974083148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_72
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 234
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587246682ee80c42917072859d9a3d3
+      internalID: -1448100221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882429e04f79f44468e4f64f596a1223
+      internalID: 2123815031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_74
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 202
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cafc83af60b98f49bdab49a067bc5c7
+      internalID: -1892139612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_75
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f58bff7afceb314e96cfacebb0a79cc
+      internalID: -568935578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_76
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 198
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57872144a1d90ee46bbb13591081cd91
+      internalID: 79648772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13bff7120e48d646aa2e3578e4236f2
+      internalID: -1956922629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 138
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addddc81cd515914c9e0be247568d2ef
+      internalID: 1683603381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_79
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3491e8e45f55f347b7fb583b93764be
+      internalID: -785336936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_80
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33069da845a6949b9d92fd32030707
+      internalID: -897450630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_81
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de6f50b660205c4ea6c74694a2b4c5a
+      internalID: 1205332729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16054ccdff6f92341a80d7366b77fdd2
+      internalID: 1133484921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 132
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b9d31c725f9f47ac3152f6d824d82
+      internalID: -1158887720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_84
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 168
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c066bf4bfeadb4bb6d38e28367d013
+      internalID: -1393196936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_85
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc214e962a9f9e47919f15c0cab708d
+      internalID: 1868628949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_86
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 134
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71885f1199bceab4a93e410962f03b9b
+      internalID: 966402550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f512e36ffb54fa40843df72f9830bb9
+      internalID: 93963596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_88
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b9aad1560bf7745a5d3fba7f8b0c94
+      internalID: 620570660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_89
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 72
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d9b98d0ef6a94ca76ec3f059f0435
+      internalID: -1796897291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_90
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 102
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6a4b5bee54ada44bcf8d15bd48fbd6
+      internalID: 1654496999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_91
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a795bf737713409c7c3067a03acd4
+      internalID: 1014715409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_92
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad5ef189240a804296e0e8398e505af
+      internalID: -213791579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_93
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6764b966bff4ee4980001a7ae3b4fe8
+      internalID: 1698559781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_94
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 98
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391227411ed54c54f9e17c40de5241e9
+      internalID: 464125152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_95
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c80e1b13a79f1499c7a059716e87f5
+      internalID: -1693160995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3223286e3b5f2d42ab8fca5388ec27b
+      internalID: -1803024756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_97
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 68
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385543bb0185a3a45a68c12d22773b1f
+      internalID: -769457356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_98
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24ee522fb9f8844cb4aa067aca166fc
+      internalID: 1931314837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_99
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017e0580cc670e44a913a9a7a3a0f7a8
+      internalID: -1846502332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_100
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b05ac2bcf365b74c8aba797d969b8be
+      internalID: 1359794789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_101
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bbb69f7251927468b782d2cc0aeb9f
+      internalID: 1216585099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c011de7bb3b4ca649b54a8672a67e7d3
+      internalID: 987704312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dbe07f5ed388643a8a75f280dcb814
+      internalID: -1763638364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_104
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd955446e380447838149a844bab98
+      internalID: 1031800577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_bricks_105
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 4
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1143780809b3de746858ca6b7d2b931e
+      internalID: -243574284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spritesheet_bricks_52: 1123593127
+      spritesheet_bricks_76: 79648772
+      spritesheet_bricks_38: -1398466663
+      spritesheet_bricks_24: 503722087
+      spritesheet_bricks_88: 620570660
+      spritesheet_bricks_95: -1693160995
+      spritesheet_bricks_59: 329113788
+      spritesheet_bricks_77: -1956922629
+      spritesheet_bricks_28: -1683981656
+      spritesheet_bricks_25: -1100004205
+      spritesheet_bricks_90: 1654496999
+      spritesheet_bricks_65: 1365545668
+      spritesheet_bricks_68: -2011987809
+      spritesheet_bricks_45: 842582913
+      spritesheet_bricks_61: -1060971556
+      spritesheet_bricks_42: -604015226
+      spritesheet_bricks_16: -1621368292
+      spritesheet_bricks_54: 1792310895
+      spritesheet_bricks_44: -1661394257
+      spritesheet_bricks_57: -1643024064
+      spritesheet_bricks_82: 1133484921
+      spritesheet_bricks_50: -1783399255
+      spritesheet_bricks_33: 883230817
+      spritesheet_bricks_8: 1749974360
+      spritesheet_bricks_43: -1677062001
+      spritesheet_bricks_9: 258040956
+      spritesheet_bricks_75: -568935578
+      spritesheet_bricks_5: 1567125026
+      spritesheet_bricks_71: -1974083148
+      spritesheet_bricks_86: 966402550
+      spritesheet_bricks_67: 1271721567
+      spritesheet_bricks_48: 1728826169
+      spritesheet_bricks_22: -1125945996
+      spritesheet_bricks_39: 778398197
+      spritesheet_bricks_56: -1635762260
+      spritesheet_bricks_6: 1156672412
+      spritesheet_bricks_37: -1893607736
+      spritesheet_bricks_64: 785408939
+      spritesheet_bricks_21: 1689285196
+      spritesheet_bricks_2: -226511740
+      spritesheet_bricks_19: -1687814064
+      spritesheet_bricks_15: -1987413006
+      spritesheet_bricks_87: 93963596
+      spritesheet_bricks_51: -899316969
+      spritesheet_bricks_73: 2123815031
+      spritesheet_bricks_94: 464125152
+      spritesheet_bricks_13: 838073512
+      spritesheet_bricks_55: 1017461390
+      spritesheet_bricks_4: 1736594883
+      spritesheet_bricks_1: 765835213
+      spritesheet_bricks_105: -243574284
+      spritesheet_bricks_36: -1339520914
+      spritesheet_bricks_93: 1698559781
+      spritesheet_bricks_79: -785336936
+      spritesheet_bricks_98: 1931314837
+      spritesheet_bricks_81: 1205332729
+      spritesheet_bricks_32: -586575937
+      spritesheet_bricks_35: 1985771684
+      spritesheet_bricks_69: 1344654946
+      spritesheet_bricks_101: 1216585099
+      spritesheet_bricks_102: 987704312
+      spritesheet_bricks_74: -1892139612
+      spritesheet_bricks_85: 1868628949
+      spritesheet_bricks_60: 1481249616
+      spritesheet_bricks_104: 1031800577
+      spritesheet_bricks_7: 2115120125
+      spritesheet_bricks_47: -605559573
+      spritesheet_bricks_89: -1796897291
+      spritesheet_bricks_18: 1404950799
+      spritesheet_bricks_30: -991963251
+      spritesheet_bricks_83: -1158887720
+      spritesheet_bricks_17: 670375977
+      spritesheet_bricks_66: 1390823069
+      spritesheet_bricks_97: -769457356
+      spritesheet_bricks_49: -1922671598
+      spritesheet_bricks_11: -1927681017
+      spritesheet_bricks_34: 2054246857
+      spritesheet_bricks_99: -1846502332
+      spritesheet_bricks_72: -1448100221
+      spritesheet_bricks_10: -536842787
+      spritesheet_bricks_80: -897450630
+      spritesheet_bricks_78: 1683603381
+      spritesheet_bricks_58: -1188667773
+      spritesheet_bricks_62: 57338085
+      spritesheet_bricks_40: -1976597010
+      spritesheet_bricks_29: 1362257265
+      spritesheet_bricks_100: 1359794789
+      spritesheet_bricks_31: -494370114
+      spritesheet_bricks_92: -213791579
+      spritesheet_bricks_20: -123064454
+      spritesheet_bricks_63: 1281878003
+      spritesheet_bricks_23: 1999201981
+      spritesheet_bricks_46: -1134452898
+      spritesheet_bricks_103: -1763638364
+      spritesheet_bricks_26: 1573499464
+      spritesheet_bricks_91: 1014715409
+      spritesheet_bricks_96: -1803024756
+      spritesheet_bricks_27: -1920235198
+      spritesheet_bricks_41: 408177450
+      spritesheet_bricks_70: -357327844
+      spritesheet_bricks_12: -1560217032
+      spritesheet_bricks_14: -209079469
+      spritesheet_bricks_0: 1265781025
+      spritesheet_bricks_53: 1017541581
+      spritesheet_bricks_84: -1393196936
+      spritesheet_bricks_3: 295000982
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
